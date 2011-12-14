@@ -1,0 +1,13 @@
+Better String library
+---------------------
+
+by Paul Hsieh
+
+The bstring library is an attempt to provide improved string processing
+functionality to the C and C++ language.  At the heart of the bstring library
+(Bstrlib for short) is the management of "bstring"s which are a significant
+improvement over '\0' terminated char buffers.
+
+===============================================================================
+
+See bstrlib.txt for more detail.
